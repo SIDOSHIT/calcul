@@ -1,0 +1,18 @@
+header {
+    background-color:rgb(190, 190, 204) ;
+  border: 1px solid black;
+  border-radius: 10px 10px 0px 0px;
+}
+.theme {
+    display: flex;
+    justify-content: space-between;
+    align-items: center ;
+}
+.theme_button {
+    width: 15%;
+    height: 20%;
+    margin-right: 5%;
+}
+h1 {
+    margin-left: 1%;
+}
